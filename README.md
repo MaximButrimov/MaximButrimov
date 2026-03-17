@@ -1,60 +1,75 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00ffff&height=120&section=header&text=👋%20Hola,%20soy%20Maxim%20Butrimov&fontSize=35&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00ffff&height=140&section=header&text=👋%20Hola,%20soy%20Maxim%20Butrimov&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=55)
 
-💻 **Desarrollador Full Stack** especializado en crear aplicaciones modernas, escalables y eficientes usando **React, TypeScript, JavaScript, Java, Python, SQL y MongoDB**.  
-
-Me apasiona construir interfaces interactivas y arquitecturas robustas que combinan **frontend y backend**. Actualmente trabajo en **Segula Technologies**, donde desarrollo soluciones con **PRL y PowerApps** y participo en la **migración de servicios de Microsoft a Google Cloud**.
+<p align="center">
+  <b>💻 Desarrollador Full Stack</b> especializado en crear aplicaciones modernas, escalables y eficientes.<br/>
+  Trabajo con <b>React, TypeScript, JavaScript, Java, Python, SQL y MongoDB</b>.<br/>
+  Me apasiona construir interfaces interactivas y arquitecturas robustas que combinan <b>frontend y backend</b>.<br/>
+  Actualmente en <b>Segula Technologies</b>, desarrollando soluciones con <b>PRL y PowerApps</b> y participando en la <b>migración de servicios de Microsoft a Google Cloud</b>.
+</p>
 
 ---
 
 ## 🚀 Tecnologías y herramientas
 
-<table>
+<table align="center">
 <tr>
-  <th>Lenguajes</th>
-  <th>Bases de datos</th>
-  <th>Frontend</th>
+  <th align="center">Lenguajes</th>
+  <th align="center">Bases de datos</th>
+  <th align="center">Frontend</th>
 </tr>
 <tr>
-  <td>
-    <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow" />
-    <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=red" />
-    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue" />
+  <td align="center">
+    <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+    <br/>
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <br/>
+    <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+    <br/>
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
   </td>
-  <td>
-    <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=database&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=green" />
+  <td align="center">
+    <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+    <br/>
+    <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" />
   </td>
-  <td>
-    <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=blue" />
+  <td align="center">
     <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <br/>
+    <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+    <br/>
+    <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
   </td>
 </tr>
 </table>
 
 ---
 
-
 ## 💼 Experiencia Profesional
 
-**Segula Technologies** – Desarrollador Full Stack *(Actualidad)*  
-- Desarrollo de soluciones con **PRL y PowerApps**  
-- Migración de servicios desde **Microsoft a Google Cloud**  
-- Aplicación de buenas prácticas y optimización de procesos internos
+### 🏢 Segula Technologies — *Desarrollador Full Stack* · Actualidad
+
+- 🔧 Desarrollo de soluciones con **PRL y PowerApps** para optimizar procesos internos
+- ☁️ Participación activa en la **migración de servicios de Microsoft a Google Cloud**
+- ✅ Aplicación de buenas prácticas, clean code y optimización de flujos de trabajo
+- 🤝 Colaboración en equipos multidisciplinares bajo metodologías ágiles
 
 ---
 
 ## 📌 Proyectos
 
-🚧 Actualmente estoy trabajando en nuevos proyectos que estarán disponibles próximamente.  
-Este perfil se actualizará con aplicaciones reales, documentadas y orientadas a resolver problemas concretos.
+> 🚧 **En construcción** — Actualmente estoy trabajando en nuevos proyectos que estarán disponibles próximamente.
+
+Este perfil se actualizará con aplicaciones reales, documentadas y orientadas a resolver problemas concretos. ¡Vuelve pronto!
 
 ---
 
-## 📊 Estadísticas
+## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaximButrimov&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximButrimov&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaximButrimov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximButrimov&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
@@ -62,19 +77,16 @@ Este perfil se actualizará con aplicaciones reales, documentadas y orientadas a
 
 Soy una persona curiosa, constante y orientada a la mejora continua. Me motiva desarrollar soluciones útiles y seguir creciendo dentro del mundo del desarrollo full stack.
 
-<table>
-<tr>
-  <td>
-    <a href="https://github.com/MaximButrimov">
-      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </td>
-  <td>
-    <a href="mailto:maxim.butrimov@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-MaximButrimov-000000?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Gmail-maxim.butrimov@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</p>
 
-⭐️ *Gracias por visitar mi perfil*
+---
+
+<p align="center">
+  ⭐️ <i>Gracias por visitar mi perfil — ¡nos vemos en el código!</i>
+</p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:1e90ff&height=80&section=footer)
