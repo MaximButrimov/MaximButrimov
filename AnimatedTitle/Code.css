@@ -1,0 +1,25 @@
+/* AnimatedTitle.css */
+.animated-title {
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  transform: translateX(-100%);
+  animation: slideIn 3s forwards;
+  font-size: 2rem;
+  font-weight: bold;
+  color: white; /* perfecto para fondo negro */
+}
+
+@keyframes slideIn {
+  0% {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    transform: translateX(0%);
+    opacity: 1;
+  }
+}
