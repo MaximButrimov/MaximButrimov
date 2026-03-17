@@ -6,27 +6,6 @@ Me apasiona construir interfaces interactivas y arquitecturas robustas que combi
 
 ---
 
-## 🌱 Sobre mí & Contacto
-
-Soy una persona curiosa, constante y orientada a la mejora continua. Me motiva desarrollar soluciones útiles y seguir creciendo dentro del mundo del desarrollo full stack.
-
-<table>
-<tr>
-  <td>
-    <a href="https://github.com/MaximButrimov">
-      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </td>
-  <td>
-    <a href="mailto:maxim.butrimov@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </td>
-</tr>
-</table>
-
----
-
 ## 🚀 Tecnologías y herramientas
 
 <table>
@@ -78,5 +57,24 @@ Este perfil se actualizará con aplicaciones reales, documentadas y orientadas a
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximButrimov&layout=compact&theme=tokyonight)
 
 ---
+
+## 🌱 Sobre mí & Contacto
+
+Soy una persona curiosa, constante y orientada a la mejora continua. Me motiva desarrollar soluciones útiles y seguir creciendo dentro del mundo del desarrollo full stack.
+
+<table>
+<tr>
+  <td>
+    <a href="https://github.com/MaximButrimov">
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </td>
+  <td>
+    <a href="mailto:maxim.butrimov@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </td>
+</tr>
+</table>
 
 ⭐️ *Gracias por visitar mi perfil*
