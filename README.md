@@ -1,4 +1,4 @@
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00ffff&height=120&section=header&text=👋%20Hola,%20soy%20Maxim%20Butrimov&fontSize=35&fontColor=ffffff&animation=fadeIn)
 
 💻 **Desarrollador Full Stack** especializado en crear aplicaciones modernas, escalables y eficientes usando **React, TypeScript, JavaScript, Java, Python, SQL y MongoDB**.  
 
