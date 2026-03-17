@@ -1,4 +1,4 @@
-# 👋 Hola, soy Maxim Butrimov
+
 
 💻 **Desarrollador Full Stack** especializado en crear aplicaciones modernas, escalables y eficientes usando **React, TypeScript, JavaScript, Java, Python, SQL y MongoDB**.  
 
