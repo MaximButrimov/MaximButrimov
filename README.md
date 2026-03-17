@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00ffff&height=140&section=header&text=👋%20Hola,%20soy%20Maxim%20Butrimov&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=55)
-
 <p align="center">
   <b>💻 Desarrollador Full Stack</b> especializado en crear aplicaciones modernas, escalables y eficientes.<br/>
   Trabajo con <b>React, TypeScript, JavaScript, Java, Python, SQL y MongoDB</b>.<br/>
@@ -35,9 +34,9 @@
   <td align="center">
     <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <br/>
-    <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+    <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
     <br/>
-    <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+    <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
   </td>
 </tr>
 </table>
@@ -47,7 +46,6 @@
 ## 💼 Experiencia Profesional
 
 ### 🏢 Segula Technologies — *Desarrollador Full Stack* · Actualidad
-
 - 🔧 Desarrollo de soluciones con **PRL y PowerApps** para optimizar procesos internos
 - ☁️ Participación activa en la **migración de servicios de Microsoft a Google Cloud**
 - ✅ Aplicación de buenas prácticas, clean code y optimización de flujos de trabajo
@@ -78,9 +76,11 @@ Este perfil se actualizará con aplicaciones reales, documentadas y orientadas a
 Soy una persona curiosa, constante y orientada a la mejora continua. Me motiva desarrollar soluciones útiles y seguir creciendo dentro del mundo del desarrollo full stack.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-MaximButrimov-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/MaximButrimov"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Gmail-maxim.butrimov@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:maxim.butrimov@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/maxim-butrimov"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
