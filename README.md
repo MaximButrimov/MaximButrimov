@@ -10,36 +10,9 @@
 
 ## 🚀 Tecnologías y herramientas
 
-<table align="center">
-<tr>
-  <th align="center">Lenguajes</th>
-  <th align="center">Bases de datos</th>
-  <th align="center">Frontend</th>
-</tr>
-<tr>
-  <td align="center">
-    <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-    <br/>
-    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <br/>
-    <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-    <br/>
-    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-    <br/>
-    <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <br/>
-    <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
-    <br/>
-    <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  </td>
-</tr>
-</table>
+| Lenguajes | Bases de datos | Frontend | Entornos de desarrollo |
+|:---------:|:--------------:|:--------:|:----------------------:|
+| ![](https://skillicons.dev/icons?i=ts,js,java,python) | ![](https://skillicons.dev/icons?i=postgres,mongodb) | ![](https://skillicons.dev/icons?i=react,css,html) | ![](https://skillicons.dev/icons?i=idea,vscode,github,git) |
 
 ---
 
