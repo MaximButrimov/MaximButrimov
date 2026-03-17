@@ -1,0 +1,143 @@
+/* ============================================
+   AnimatedTitle — GitHub Profile Component
+   Fuente: 'Sora' (display) via Google Fonts
+   ============================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@700;800&display=swap');
+
+/* ── Variables ── */
+:root {
+  --at-white:   #f0f6ff;
+  --at-blue:    #1e90ff;
+  --at-cyan:    #00e5ff;
+  --at-glow:    rgba(0, 229, 255, 0.35);
+  --at-shadow:  rgba(30, 144, 255, 0.25);
+}
+
+/* ── Wrapper ── */
+.animated-title-wrapper {
+  display: inline-flex;
+  align-items: center;
+  overflow: hidden;           /* clips the slide-in travel */
+  padding: 0.15em 0;
+}
+
+/* ── Title ── */
+.animated-title {
+  font-family: 'Sora', sans-serif;
+  font-size: clamp(1.6rem, 4vw, 2.6rem);
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  line-height: 1.15;
+  margin: 0;
+  white-space: nowrap;
+
+  /* Gradient text */
+  background: linear-gradient(
+    100deg,
+    var(--at-white)  0%,
+    var(--at-blue)  45%,
+    var(--at-cyan) 100%
+  );
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  /* Subtle glow (works via drop-shadow on the wrapper) */
+  filter: drop-shadow(0 0 18px var(--at-glow));
+
+  /* Animations */
+  opacity: 0;
+  transform: translateX(-110%);
+  animation:
+    slideIn      0.9s cubic-bezier(0.22, 1, 0.36, 1)  0.2s  forwards,
+    colorShift   3.5s linear                           0.2s  forwards,
+    glowPulse    2.8s ease-in-out                      1.1s  infinite alternate;
+}
+
+/* ── Cursor blink after title settles ── */
+.animated-title::after {
+  content: '|';
+  display: inline-block;
+  margin-left: 4px;
+  -webkit-text-fill-color: var(--at-cyan);
+  animation: cursorBlink 1.1s step-end 1.5s infinite;
+  opacity: 0;
+}
+
+/* ════════════════════════════════════
+   KEYFRAMES
+   ════════════════════════════════════ */
+
+/* 1. Slide from left + fade in */
+@keyframes slideIn {
+  0%   { transform: translateX(-110%); opacity: 0; }
+  60%  { opacity: 1; }
+  100% { transform: translateX(0);     opacity: 1; }
+}
+
+/* 2. Gradient sweep: white → blue → cyan */
+@keyframes colorShift {
+  0%   { background-position: 200% center; }
+  100% { background-position:   0% center; }
+}
+
+/* 3. Soft glow pulse once settled */
+@keyframes glowPulse {
+  from { filter: drop-shadow(0 0 10px var(--at-shadow)); }
+  to   { filter: drop-shadow(0 0 28px var(--at-glow));   }
+}
+
+/* 4. Blinking cursor */
+@keyframes cursorBlink {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0; }
+}
+
+/* ── Dark background utility (apply to parent if needed) ── */
+.dark-bg {
+  background: #0d1117;
+  padding: 2rem 2.5rem;
+  border-radius: 12px;
+}
+
+/* ── Light background override ── */
+.light-bg .animated-title {
+  background: linear-gradient(
+    100deg,
+    #0a2540  0%,
+    var(--at-blue)  50%,
+    #0077cc 100%
+  );
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 0 10px rgba(30, 144, 255, 0.2));
+}
+
+/* ── Reduced motion ── */
+@media (prefers-reduced-motion: reduce) {
+  .animated-title {
+    animation: fadeOnly 0.6s ease forwards;
+    transform: none;
+  }
+  .animated-title::after { animation: none; opacity: 1; }
+
+  @keyframes fadeOnly {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+  }
+}
+
+/* ── Responsive fine-tuning ── */
+@media (max-width: 480px) {
+  .animated-title {
+    white-space: normal;
+    text-align: center;
+  }
+  .animated-title-wrapper {
+    justify-content: center;
+  }
+}
