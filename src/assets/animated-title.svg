@@ -1,4 +1,4 @@
-<svg width="800" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Sora:wght@800&display=swap');
@@ -56,7 +56,7 @@
   <rect width="600" height="80" fill="none" />
   <!-- Glow layer -->
   <g clip-path="url(#clip)">
-    <text x="20" y="54" class="title glow"
+    <text x="110" y="54" class="title glow"
           fill="url(#gradGlow)"
           style="filter:blur(10px); opacity:0.4;">
       👋 Hola, soy Maxim Butrimov
@@ -64,10 +64,10 @@
   </g>
   <!-- Main text -->
   <g clip-path="url(#clip)">
-    <text x="20" y="54" class="title">
+    <text x="110" y="54" class="title">
       👋 Hola, soy Maxim Butrimov
     </text>
   </g>
   <!-- Blinking cursor -->
-  <text x="578" y="54" class="cursor" font-size="32" font-family="monospace">|</text>
+  <text x="778" y="54" class="cursor" font-size="32" font-family="monospace">|</text>
 </svg>
