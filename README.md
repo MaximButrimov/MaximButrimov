@@ -21,7 +21,7 @@
 ```text
 🏢  Full Stack Developer en Segula Technologies
 🌍  Con base en España · abierto a proyectos remotos e internacionales
-⚙️  Especializado en React + TypeScript + Java + Python
+⚙️  Especializado en TypeScript + Java + Python
 ☁️  Experiencia activa en migración de servicios Microsoft → Google Cloud
 🐧  Fluido en entornos Linux (bash scripting, CLI avanzada)
 🪟  Administración y automatización con PowerShell en entornos Windows
