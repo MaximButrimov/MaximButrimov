@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="src/Animation.gif" alt="Maxim Butrimov - Full Stack Developer" width="100%" />
+  <img src="src/AnimatedTitle/Animation.gif" alt="Maxim Butrimov - Full Stack Developer" width="100%" />
 </div>
 
 <div align="center">
