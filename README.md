@@ -1,5 +1,7 @@
 <!-- HEADER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Maxim%20Butrimov&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20·%20Cloud%20Migration%20·%20Scalable%20Solutions&descSize=18&descAlignY=75&descAlign=50)
+<div align="center">
+  <img src="src/Animation.gif" alt="Maxim Butrimov - Full Stack Developer" width="100%" />
+</div>
 
 <div align="center">
 
