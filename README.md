@@ -14,9 +14,6 @@
     <img src="https://img.shields.io/badge/🌐_Portfolio-Ver_más-7EB8F7?style=for-the-badge" />
   </a>
   &nbsp;
-  <a href="https://portfolio-zeta-tawny-46.vercel.app/">
-    <img src="https://img.shields.io/badge/📄_CV-Descargar-7EB8F7?style=for-the-badge" />
-  </a>
 </div>
 
 ---
