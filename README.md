@@ -131,20 +131,6 @@ No soy desarrollador de copiar y pegar. Antes de escribir código, entiendo el *
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaximButrimov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="175" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximButrimov&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MaximButrimov&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" />
-</div>
-
----
-
 ## 📬 Contacto
 
 <div align="center">
